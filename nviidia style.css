@@ -1,0 +1,30 @@
+body,
+html{
+    height: 100%;
+    width: 100%;
+    font-family: 'Unbounded', cursive;
+    background: url(605584.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;
+}
+
+
+.btn {
+    font-weight: 700px;
+    border-radius: 350px;
+    padding: 1rem 2rem;
+}
+.btn:hover { transform: scale(1.1);}
+
+.buffer {
+    height: 50px;
+}
+
+h1 {
+    color: azure;
+    stroke-width: 20px solid black;
+    
+}
